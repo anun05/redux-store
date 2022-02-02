@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "engines": {
     "npm": "7.x"
-
   },
   "description": "",
   "main": "server/server.js",
@@ -20,5 +19,8 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1"
   }
 }
